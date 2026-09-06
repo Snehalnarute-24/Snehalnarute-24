@@ -108,8 +108,9 @@ ask_me_about: Java, Python, C++, SQL, DSA
 ## 🐍 Contribution Snake
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Snehalnarute-24/Snehalnarute-24/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%"/>
+<img src="https://raw.githubusercontent.com/prathameshsawant6636/prathameshsawant6636/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%"/>
 </div>
+
 
 <br/>
 
