@@ -36,7 +36,7 @@ ask_me_about: Java, Python, C++, SQL, DSA
 - 🌱 I'm currently learning **AI Tools,DSA, Java, Python,**
 - 👯 I'm looking to collaborate on **open-source AI/Automation projects and DSA practice repositories**
 - 💬 Ask me about **Java, Python, C++, SQL, DSA, AI Automation**
-- 📫 How to reach me: **prathameshsawantsaegd@gmail.com**
+- 📫 How to reach me: **snehalnarute24@gmail.com**
 - ⚡ Fun fact: **I turn coffee into code**
 
 <br/>
