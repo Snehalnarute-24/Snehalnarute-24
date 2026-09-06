@@ -19,7 +19,7 @@
 
 <br/>
 
-Hey! I'm a 2nd year BCA student passionate about **AI & Automation**. Currently sharpening my skills in DSA, Java, Python and System Design, and always excited to learn and collaborate on new projects.
+Hey! I'm a 2nd year BCA student passionate about **AI & Automation**. Currently sharpening my skills in DSA, Java, Python C, C++  and always excited to learn and collaborate on new projects.
 
 <br/>
 
